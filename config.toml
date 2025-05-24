@@ -1,8 +1,8 @@
 baseURL = "http://004141.xyz/"
 languageCode = "en-us"
 title = "Tumaros 004141"
-theme = "../ink-free"
-themesDir = "../"
+#theme = "ink-free"
+#themesDir = "../"
 pagerSize = 5
 
 copyright = "© Copyright notice"
