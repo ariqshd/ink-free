@@ -1,5 +1,5 @@
 ---
-title: "Floating Navigation bar"
+title: "TUMAROS Floating Navigation bar"
 date: "2023-06-19"
 description: "The Floating Navigation bar can get truncated to show h2 headings if the table of content gets to long"
 tags: [markdown, css, html, themes]
