@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://004141.xyz/"
 languageCode = "en-us"
-title = "Ink-Free"
+title = "Tumaros 004141"
 theme = "ink-free"
 pagerSize = 5
 
@@ -13,7 +13,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
   posts = "/:year/:month/:title"
 
 [params]
-	subtitle = "Crisp, minimal, privacy-conscious personal [blog theme for Hugo](https://github.com/chollinger93/ink-free)"
+	subtitle = "Crisp, minimal, privacy-conscious personal [blog theme for Hugo](https://github.com/ariqshd/ink-free)"
 
 	# Optional 64x64 avatar image.
 	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
@@ -49,7 +49,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 	]
 
 	# Github base url
-	github = "https://github.com/chollinger93/ink-free"
+	github = "https://github.com/ariqshd/ink-free"
 
 	# For statistics, we can compare the total word count against a book of your choice
 	statisticsEnabled = true
@@ -81,12 +81,12 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/chollinger93/"
+url = "https://github.com/ariqshd/"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/chollinger93/"
+url = "https://twitter.com/ariqshd/"
 
 [[params.social]]
 name = "RSS"
