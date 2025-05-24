@@ -2,11 +2,12 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Ink-Free"
 theme = "ink-free"
-paginate = 5
+pagerSize = 5
 
 copyright = "© Copyright notice"
 # Demo only
 #ignoreErrors = ["error-missing-instagram-accesstoken"]
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [permalinks]
   posts = "/:year/:month/:title"
